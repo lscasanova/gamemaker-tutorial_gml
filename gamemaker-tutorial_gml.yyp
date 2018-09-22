@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "97685b10-c44b-4fa8-a5c7-20cb6308cc02",
+            "Value": {
+                "id": "9e23f7da-8fcb-480c-b97b-8395a1ede078",
+                "resourcePath": "objects\\obj_enemy_spawn\\obj_enemy_spawn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a5c3a239-2f90-4bc7-9f64-65ea312e4168",
             "Value": {
                 "id": "e5c7247b-8844-4365-85ab-bf6cd7f7aab3",
@@ -268,6 +276,14 @@
                 "id": "91895ee5-2916-4ef7-90e0-09ecd9574ce4",
                 "resourcePath": "sprites\\spr_titlescreen\\spr_titlescreen.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eb860022-f842-47bc-a54f-a5968333bee4",
+            "Value": {
+                "id": "2602212b-b995-4393-8bcb-fe791e88846e",
+                "resourcePath": "objects\\obj_spawner\\obj_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
